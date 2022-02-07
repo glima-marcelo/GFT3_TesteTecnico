@@ -1,0 +1,16 @@
+A:\Programming\GFT3_TesteTecnico\Teste2\CalculaImposto\obj\Debug\net5.0\CalculaImposto.csproj.AssemblyReference.cache
+A:\Programming\GFT3_TesteTecnico\Teste2\CalculaImposto\obj\Debug\net5.0\CalculaImposto.GeneratedMSBuildEditorConfig.editorconfig
+A:\Programming\GFT3_TesteTecnico\Teste2\CalculaImposto\obj\Debug\net5.0\CalculaImposto.AssemblyInfoInputs.cache
+A:\Programming\GFT3_TesteTecnico\Teste2\CalculaImposto\obj\Debug\net5.0\CalculaImposto.AssemblyInfo.cs
+A:\Programming\GFT3_TesteTecnico\Teste2\CalculaImposto\obj\Debug\net5.0\CalculaImposto.csproj.CoreCompileInputs.cache
+A:\Programming\GFT3_TesteTecnico\Teste2\CalculaImposto\bin\Debug\net5.0\CalculaImposto.exe
+A:\Programming\GFT3_TesteTecnico\Teste2\CalculaImposto\bin\Debug\net5.0\CalculaImposto.deps.json
+A:\Programming\GFT3_TesteTecnico\Teste2\CalculaImposto\bin\Debug\net5.0\CalculaImposto.runtimeconfig.json
+A:\Programming\GFT3_TesteTecnico\Teste2\CalculaImposto\bin\Debug\net5.0\CalculaImposto.runtimeconfig.dev.json
+A:\Programming\GFT3_TesteTecnico\Teste2\CalculaImposto\bin\Debug\net5.0\CalculaImposto.dll
+A:\Programming\GFT3_TesteTecnico\Teste2\CalculaImposto\bin\Debug\net5.0\ref\CalculaImposto.dll
+A:\Programming\GFT3_TesteTecnico\Teste2\CalculaImposto\bin\Debug\net5.0\CalculaImposto.pdb
+A:\Programming\GFT3_TesteTecnico\Teste2\CalculaImposto\obj\Debug\net5.0\CalculaImposto.dll
+A:\Programming\GFT3_TesteTecnico\Teste2\CalculaImposto\obj\Debug\net5.0\ref\CalculaImposto.dll
+A:\Programming\GFT3_TesteTecnico\Teste2\CalculaImposto\obj\Debug\net5.0\CalculaImposto.pdb
+A:\Programming\GFT3_TesteTecnico\Teste2\CalculaImposto\obj\Debug\net5.0\CalculaImposto.genruntimeconfig.cache

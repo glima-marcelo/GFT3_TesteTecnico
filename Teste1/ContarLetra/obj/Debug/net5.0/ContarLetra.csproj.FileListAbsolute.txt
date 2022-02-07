@@ -1,0 +1,16 @@
+A:\Programming\GFT3_TesteTecnico\Teste1\ContarLetra\bin\Debug\net5.0\ContarLetra.exe
+A:\Programming\GFT3_TesteTecnico\Teste1\ContarLetra\bin\Debug\net5.0\ContarLetra.deps.json
+A:\Programming\GFT3_TesteTecnico\Teste1\ContarLetra\bin\Debug\net5.0\ContarLetra.runtimeconfig.json
+A:\Programming\GFT3_TesteTecnico\Teste1\ContarLetra\bin\Debug\net5.0\ContarLetra.runtimeconfig.dev.json
+A:\Programming\GFT3_TesteTecnico\Teste1\ContarLetra\bin\Debug\net5.0\ContarLetra.dll
+A:\Programming\GFT3_TesteTecnico\Teste1\ContarLetra\bin\Debug\net5.0\ref\ContarLetra.dll
+A:\Programming\GFT3_TesteTecnico\Teste1\ContarLetra\bin\Debug\net5.0\ContarLetra.pdb
+A:\Programming\GFT3_TesteTecnico\Teste1\ContarLetra\obj\Debug\net5.0\ContarLetra.csproj.AssemblyReference.cache
+A:\Programming\GFT3_TesteTecnico\Teste1\ContarLetra\obj\Debug\net5.0\ContarLetra.GeneratedMSBuildEditorConfig.editorconfig
+A:\Programming\GFT3_TesteTecnico\Teste1\ContarLetra\obj\Debug\net5.0\ContarLetra.AssemblyInfoInputs.cache
+A:\Programming\GFT3_TesteTecnico\Teste1\ContarLetra\obj\Debug\net5.0\ContarLetra.AssemblyInfo.cs
+A:\Programming\GFT3_TesteTecnico\Teste1\ContarLetra\obj\Debug\net5.0\ContarLetra.csproj.CoreCompileInputs.cache
+A:\Programming\GFT3_TesteTecnico\Teste1\ContarLetra\obj\Debug\net5.0\ContarLetra.dll
+A:\Programming\GFT3_TesteTecnico\Teste1\ContarLetra\obj\Debug\net5.0\ref\ContarLetra.dll
+A:\Programming\GFT3_TesteTecnico\Teste1\ContarLetra\obj\Debug\net5.0\ContarLetra.pdb
+A:\Programming\GFT3_TesteTecnico\Teste1\ContarLetra\obj\Debug\net5.0\ContarLetra.genruntimeconfig.cache

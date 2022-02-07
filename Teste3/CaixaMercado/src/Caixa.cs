@@ -10,6 +10,14 @@ namespace CaixaMercado.src
         public int Quantidade { get; set; }
     }
 
+    public Caixa(Produto Nome, Produto Valor, Produto Tipo, int Quantidade)
+    {
+        Produto.Nome = Nome;
+        Produto.Valor = Valor;
+        Produto.Tipo = Tipo;
+        this.Quantidade = Quantidade;
+    }
+
     public double CalculaValorFinal(Produto Produto, int Quantidade)
     {
         switch(Produto.Tipo)
@@ -31,5 +39,11 @@ namespace CaixaMercado.src
             }
             break;
         }
+
+       public override string ToString()
+        {
+            Produto.Nome + " - " + Produto.Valor + " - " + Produto.Tipo + " - " + this.Quantidade + " - " + CalculaValorFinal;
+        } 
     }
+
 }
